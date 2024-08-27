@@ -47,6 +47,7 @@ optional arguments:
 ```
 
 To cite this work: 
+```
 @article{nguyen2024decentralized,
   title={Decentralized Coordination for Multi-Agent Data Collection in Dynamic Environments},
   author={Nguyen, Nhat and Nguyen, Duong and Kim, Junae and Rizzo, Gianluca and Nguyen, Hung},
